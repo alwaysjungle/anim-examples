@@ -3,3 +3,8 @@ Desktop.ini
 *.blend
 *.blend1
 frames/
+_push.ps1
+_push.log
+_push.pid
+_push.out.txt
+_push.err.txt

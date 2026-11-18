@@ -55,3 +55,11 @@ LOG.md
 previews/
 elden_ring_clips/
 ```
+
+## Skeleton previews
+
+`previews/roll_skeleton.mp4` and `previews/backstep_skeleton.mp4` are later side-by-side previews of a skeleton overlay on the roll and backstep clips.
+
+`curved_sword_light_1` and `curved_sword_light_2` were just over 95 MB, so the copies in this repo were re-encoded with ffmpeg (95.87 MB down to about 79 MB) to stay under GitHub's 100 MB file limit. The originals on the E: drive were not changed.
+
+`recoil_guard` and `recoil_wall` have metadata only; no clip video existed on disk.
