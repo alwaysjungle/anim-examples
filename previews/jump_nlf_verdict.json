@@ -1,0 +1,30 @@
+{
+ "pose": [
+  true,
+  "cos 0.943 (src 0.974), frames>=0.8 0.972"
+ ],
+ "timing": [
+  true,
+  "knee lag [1, 0]"
+ ],
+ "foot_slide": [
+  true,
+  "max 0.64cm mean 0.16cm skim 0"
+ ],
+ "jitter_pops": [
+  false,
+  "spikes 2 flips 2 maxw 87.0"
+ ],
+ "root": [
+  true,
+  "net [-0.819, -0.139] maxstep 2.06cm spikes 0"
+ ],
+ "fbx": [
+  true,
+  "err 0.001mm off 0"
+ ],
+ "ALL": [
+  false,
+  ""
+ ]
+}

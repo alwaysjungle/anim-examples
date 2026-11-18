@@ -1,0 +1,40 @@
+{
+ "first": {
+  "frame": 1,
+  "x": [
+   0.495,
+   0.504
+  ],
+  "y": [
+   0.493,
+   0.506
+  ],
+  "inside": true
+ },
+ "middle": {
+  "frame": 54,
+  "x": [
+   0.498,
+   0.506
+  ],
+  "y": [
+   0.593,
+   0.603
+  ],
+  "inside": true
+ },
+ "last": {
+  "frame": 107,
+  "x": [
+   0.495,
+   0.505
+  ],
+  "y": [
+   0.492,
+   0.508
+  ],
+  "inside": true
+ },
+ "all_frames_inside": true,
+ "ortho_scale_m": 66.097
+}
